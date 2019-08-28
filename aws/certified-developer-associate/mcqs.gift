@@ -1,0 +1,4 @@
+//DynamoDB scan operation
+::Q1:: In DynamoDB, a scan operation is used for which of the following?
+{=Return the entire contents of a table ~Return the entire contents of a table filtered on the primary key attribute  ~Find items in a table based on the Sort Key attribute  ~Find item in a table based on the primary key attribute }
+
